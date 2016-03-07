@@ -1,0 +1,8 @@
+#+TITLE: Notes on Russell and Norvig's "AI: A Modern Approach"
+
+Anyone that's interested can feel free to follow along.
+
+While the [[http://orgmode.org/][Org-mode]] file these notes are written in are certainly viewable on
+Github, the document benefits *vastly* from being viewed with Emacs itself. This
+is due to a multitude of reasons which, at risk of repeating that which has been
+said better elsewhere, I won't go into here.

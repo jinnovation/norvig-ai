@@ -1,0 +1,73 @@
+#+TITLE: Notes on "AI: A Modern Approach"
+#+AUTHOR: Jonathan Jin
+
+* Introduction
+
+** What is AI?
+
+*** Definitions: Human-centric vs. Idealistic
+
+    Define success in terms of /fidelity to human performance/ or /ideal
+    performance measure/.
+
+    - Human-centered approach :: must be in part /empirical science/ -- entails
+         observations + hypotheses about human behavior
+    - Rationalist approach :: combination of mathematics + engineering
+
+**** Acting Humanly
+
+     - Kurzweil, 1990 :: "The art of creating machines that perform functions
+          that *require intelligence when performed by people*"
+     - Rich and Knight, 1991 :: "The study of how to make computers do things at
+          which, at the moment, people are better"
+
+***** Turing Test
+
+      - Designed to provide satisfactory operational definition of intelligence
+      - Computer passes test if human interrogator, after posing written
+        questions, *cannot tell whether the written responses come from a person
+        or from a computer*
+      - Disregards physicality as unnecessary for intelligence
+
+****** Requirements for passing
+
+       - Natural language processing :: enable it to communicate successfully in
+            English (and any other language, for that matter)
+       - Knowledge representation :: to store what it knows/hears
+       - Automated reasoning :: to use stored info to answer questions and draw
+            new conclusions
+       - Machine learning :: to adapt to new circumstances and to detect and
+            extrapolate patterns
+
+***** Total Turing Test
+
+      - Includes /video signal/ so that interrogator can test subject's
+        perceptual abilities, as well as opportunity to pass physical objects
+        "through the hatch"
+
+****** Added requirements
+
+       - Computer vision :: to perceive objects
+       - Robotics :: to manipulate objects and move about
+
+**** Thinking Humanly
+
+     - Haugeland, 1985 :: "The exciting new effort to make computers
+          thing...machines with minds, in the full and literal sense."
+     - Bellman, 1978 :: "[The automation of] activities that we associate with
+          human thinking, activities such as decision-making, problem solving,
+          learning..."
+
+**** Thinking Rationally
+
+     - Charniak and McDermott, 1985 :: "The study of mental faculties through the
+          use of computation models"
+     - Winston, 1992 :: "The study of the computations that make it possible to
+          perceive, reason, and act"
+
+**** Acting Rationally
+
+     - Poole et al., 1998 :: "Computational intelligence is the study of the
+          design of *intelligent agents*"
+     - Nilsson, 1998 :: "AI...is concerned with intelligent behavior in
+          artifacts"
