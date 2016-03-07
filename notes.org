@@ -94,3 +94,5 @@
          - Create and pursue goals
        - Rational agent :: one that acts so as to achieve the best outcome or,
             w/ uncertainty, best expected outcome
+
+** Foundations of Artificial Intelligence
